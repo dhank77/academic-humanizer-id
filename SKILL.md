@@ -47,7 +47,8 @@ Pindai dan perbaiki pola umum berikut, dengan memperhatikan pengecualian akademi
 - variasi elegan (memutar sinonim untuk satu rujukan yang sama);
 - pengisi ("perlu dicatat bahwa", "perlu ditekankan bahwa", "dalam rangka untuk", "dapat dikatakan bahwa", "pada dasarnya");
 - **kalimat terlalu panjang dan bertumpuk anak kalimat (pecah; lihat 2.11)**;
-- **em-dash (hapus seluruhnya; ganti dengan koma, titik dua, tanda kurung, atau kalimat terpisah)**.
+- **em-dash (hapus seluruhnya; ganti dengan koma, titik dua, tanda kurung, atau kalimat terpisah)**;
+- **emoji, emotikon ASCII (:-), :), dsb.), dan simbol dekoratif (✨ ✅ → ★ • dsb.) — hapus seluruhnya.** Pengecualian: simbol ilmiah tetap dipertahankan verbatim (%, ±, =, α, β, dll., lihat Lapisan 3).
 
 **Sebelum:** *Selain itu, bukti abadi atas nilai metode ini adalah kemampuannya menggali ketergantungan yang rumit, menampilkan integrasi mulus yang menggarisbawahi peran pentingnya.*
 **Sesudah:** *Metode ini juga menangkap ketergantungan orde-tinggi yang tidak tertangkap baseline (Tabel 2).*
