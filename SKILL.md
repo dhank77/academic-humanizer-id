@@ -124,6 +124,7 @@ Humanizer umum meratakan konstruksi ilmiah yang sah. Pertahankan:
 - **Orang-pertama jamak "kami"** adalah baku; jangan tulis ulang untuk menghindarinya.
 - **Titik koma dan sesekali deret tiga** boleh secukupnya. Pengecualian adalah em-dash: hapus seluruhnya (Lapisan 1), ganti dengan koma, titik dua, tanda kurung, atau kalimat terpisah.
 - **Definisi formal, nama metode/metrik, istilah teknis, persamaan, dan simbol** tetap verbatim.
+- **Istilah asing jangan dipaksa di-Indonesia-kan.** Jika istilah Inggris sudah baku di bidangnya dan belum ada padanan KBBI yang lazim (*machine learning, deep learning, baseline, dataset, loss, transfer learning,* dsb.), pertahankan bahasa Inggrisnya dan cetak miring. Gunakan padanan Indonesia hanya bila sudah lazim dan konsisten dalam satu naskah (ikuti KBBI/pedoman kampus/venue). Jangan mencampur dua bentuk untuk satu istilah.
 - **Jangan pernah mengarang, menghapus, atau mengubah angka, persamaan, atau sitasi.** Isi sama; pertahankan setiap kunci sitasi.
 - Ikuti EYD dan KBBI untuk ejaan; gunakan koma desimal Indonesia (0,91) untuk naskah Indonesia, kecuali venue meminta titik desimal.
 
