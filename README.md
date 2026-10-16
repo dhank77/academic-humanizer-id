@@ -14,7 +14,7 @@ Adaptasi Bahasa Indonesia dari [AIScientists-Dev/academic-humanizer](https://git
 ## Install
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/academic-humanizer-id ~/.claude/skills/academic-humanizer-id
+git clone https://github.com/dhank77/academic-humanizer-id ~/.claude/skills/academic-humanizer-id
 ```
 
 Ini `SKILL.md` biasa plus contoh, jadi juga jalan sebagai skill/system prompt untuk **Codex** dan **MorphMind**. Arahkan agen ke `SKILL.md`.
